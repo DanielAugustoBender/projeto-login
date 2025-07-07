@@ -5,3 +5,50 @@ Palte de corres
 #E34E02 laranja
 #011F26 escuro
 */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #011F26;
+}
+
+section {
+    background-color: white;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50vw;
+}
+
+div#imagem {
+
+}
+
+div#formulario > h1 {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+div#formulario > p {
+    text-align: justify;
+}
+
+p {
+  display: flex;
+  align-items: center;     /* alinha ícone e input verticalmente */
+  gap: 10px;               /* espaço entre ícone e input */
+  margin: 10px 0;
+}
+
+.material-symbols-outlined {
+  font-size: 30px;         /* tamanho do ícone */
+  line-height: 1;
+}
