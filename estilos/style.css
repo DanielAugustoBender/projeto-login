@@ -32,7 +32,7 @@ section {
     margin: auto;
     padding: 0px;
     border-radius: 20px 20px 20px 20px;
-    width: 50%;
+    width: 60%;
     height: 65vh;
     overflow: hidden;
 }
@@ -43,8 +43,6 @@ section {
     overflow: hidden; /* esconde partes da imagem que "vazarem" */
     position: relative;
     border-radius: 20px 20px 0px 0px;
-
-    
 }
 
 img {
