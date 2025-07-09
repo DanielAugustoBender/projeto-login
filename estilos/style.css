@@ -22,7 +22,8 @@ body {
 }
 
 body, html {
-    width: 100%; /*Usamos width: 100% e height: 100% no html e no body em CSS para garantir que eles ocupem   toda a área visível da janela do navegador (viewport). overflow: hidden; /*Anotar comando para tirar completamente a rolagem da tela*/ 
+    width: 100%; /*Usamos width: 100% e height: 100% no html e no body em CSS para garantir que eles ocupem   toda a área visível da janela do navegador (viewport).*/
+    overflow: hidden; /*Anotar comando para tirar completamente a rolagem da tela*/ 
 }
 
 section {
